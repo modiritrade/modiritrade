@@ -48,7 +48,6 @@
 
 ## 💡 About Me
 
-*(Expand on your experience and interests here. This is where you can elaborate beyond the bio.)*
 
 I am a versatile Full-Stack Developer with hands-on experience in both front-end and back-end development. My expertise spans across various programming languages and technologies, enabling me to build comprehensive and efficient web applications.
 
